@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVI Example</string>
+
+    <string name="todo_items_draft_action_add">Add</string>
+    <string name="todo_items_draft_error_empty_name">Empty name</string>
+    <string name="todo_items_draft_error_name_too_short">Name too short</string>
+    <string name="todo_items_draft_hint">Buy milk</string>
+    <string name="todo_items_draft_label">Add todo item</string>
+
+    <string name="todo_items_empty_list">No todos yet</string>
+    <string name="todo_items_headers">Items</string>
+    <string name="todo_items_item_action_delete">Delete</string>
+</resources>
